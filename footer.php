@@ -26,14 +26,14 @@
 		   
              
         </div>
-       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3819.350518014622!2d75.71712651378596!3d16.808958423655763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc65563c4d18d2f%3A0xaac7cdd23dd7bc56!2sSECAB%20Inst%20Of%20BBA%2FBCA%20College!5e0!3m2!1sen!2sin!4v1665386109583!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3819.350518014622!2d75.71712651378596!3d16.808958423655763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc65563c4d18d2f%3A0xaac7cdd23dd7bc56!2sSECAB%20Inst%20Of%20BBA%2FBCA%20College!5e0!3m2!1sen!2sin!4v1665386109583!5m2!1sen!2sin" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     
 	 <div class="row" style="background-color: #000C18">
             <div class="col-md-6" style="float: left">
               <!--  <center> <p style="padding: 10px;color : white;font-family: 'Oswald', sans-serif;">Developed & maintained by &nbsp;&nbsp;<span style="color : #28A0E5;font-weight : bold">IT CELL&nbsp;&nbsp;,Secab Association</span></p></center>-->
             
 
-			   <center> <p style="padding: 10px;color : white;font-family: 'Oswald', sans-serif;">Developed & maintained by &nbsp;&nbsp;<span style="color : #28A0E5;font-weight : bold">Amethyst IT Services</span></p></center>
+			   <center> <p style="padding: 10px;color : white;font-family: 'Oswald', sans-serif;" >Developed by &nbsp;&nbsp;<a  href="https://github.com/azeem47s"><span style="color : #28A0E5;font-weight : bold">Azeem Maniyar</span></a></p></center>
 			</div>
             <div class="col-md-6">
                 <center> <p style="padding: 10px;color : white;font-family: 'Oswald', sans-serif;"><i class="fa fa-copyright" aria-hidden="true"></i> Copyright 2022 All Rights Reserved</p></center>

@@ -1,6 +1,6 @@
 <a class="navbar-brand" href="index.php">
       <div class="logo-image">
-            <img src="images/cropped.png" height="70px" width="70px" class="img-fluid">
+            <img src="images/cropped.png" height="60px" width="60px" class="img-fluid">
       </div>
 </a>
 <header class="theme-main-header">
@@ -64,15 +64,15 @@
 </ul>
 </li>
 
-<li><a href="gallery.php">Gallery</a></li>
+<li><a href="gallery.php" >Gallery</a></li>
 
+<li><a href="contact.php" >Contact Us</a></li>
 
-<li><a href="#">NAAC</a></li>
+<!-- <li><a href="#">NAAC</a></li> -->
 
 <!-- <li><a href="notice.php">Notices</a></li>-->
 <!-- <li><a href="index.html#project-section">SOCI</a></li>-->
 
-<li><a href="contact.php">Contact Us</a></li>
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav> <!-- /.theme-feature-menu -->
